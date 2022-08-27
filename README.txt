@@ -1,6 +1,4 @@
-README
-
-Simple audio memory game. 
+Audio memory game. 
 
 Just launch index.html to test.
 
